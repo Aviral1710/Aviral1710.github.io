@@ -1,0 +1,14 @@
+#result {
+  width: 225px;
+  height: 25px;
+  margin-left: 2px;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 15px;
+  height: 50px;
+  width: 75px;
+}
