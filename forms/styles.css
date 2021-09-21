@@ -1,0 +1,28 @@
+body,
+html {
+  height: 100%;
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+label {
+  font-size: 1.2rem;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.bg {
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn {
+  border-radius: 12px;
+  border: 2px solid black;
+  font-size: 15px;
+}
